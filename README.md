@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anym@hotmail.fr"><img alt="Email" src="https://img.shields.io/badge/email-contact%40anym--book.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:anym@hotmail.fr"><img alt="Email" src="https://img.shields.io/badge/email-anym%40hotmail.fr-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ss-jamii"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ss--jamii-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/Anymfah"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Anymfah-181717?style=flat-square&logo=github"></a>
 </p>
